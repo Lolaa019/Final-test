@@ -1,0 +1,23 @@
+{
+  "registration": {
+    "firstname": "Scooby",
+    "lastname": "Doo",
+    "email": "scoobydoobydoo@testlocal"
+  },
+  "order": [
+    {
+      "package": "Double burger",
+      "quantity": 2,
+      "sideDish": "Mozzarella sticks",
+      "cutlery": false
+    },
+    {
+      "package": "Heart attack",
+      "sideDish": "Onion rings",
+      "quantity": 4,
+      "cutlery": true
+    }
+  ]
+
+
+}
