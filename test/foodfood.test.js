@@ -54,7 +54,7 @@ describe( 'Fastfood QA.rs tests', function () {
     });
 
     after(async function () {
-        //await driver.quit();
+        await driver.quit();
     });
 
     beforeEach(function () {
